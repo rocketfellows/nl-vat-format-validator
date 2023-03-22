@@ -3,6 +3,7 @@
 namespace rocketfellows\NLVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\NLVatFormatValidator\NLVatFormatValidator;
 
 class NLVatFormatValidatorTest extends TestCase
 {
